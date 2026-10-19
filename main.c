@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int a = 12;
-    int b = 3;
+    int a = 15;
+    int b = 15;
 
     printf("Vsota = %d\n", a + b);
     printf("Merge nova demonstracija\n");
