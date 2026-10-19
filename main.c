@@ -7,6 +7,6 @@ int main() {
     printf("Vsota = %d\n", a + b);
     printf("Merge nova demonstracija\n");
 printf("Cherry pick demonstracija\n");
-// Funkcija odštevanja
+// Napaka za test revert
     return 0;
 }
