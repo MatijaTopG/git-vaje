@@ -5,7 +5,7 @@ int main() {
     int b = 3;
 
     printf("Vsota = %d\n", a + b);
-    printf("Merge demonstracija\n");
+    printf("Merge nova demonstracija\n");
 
     return 0;
 }
