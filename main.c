@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a = 10;
+    int a = 20;
     int b = 3;
 
     printf("Vsota = %d\n", a + b);
